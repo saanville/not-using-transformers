@@ -1,0 +1,22 @@
+label {
+    position: absolute;
+    width: 759px;
+    height: 108px;
+    left: 98px;
+    top: 80px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+}
+
+ellipse {
+    position: absolute;
+    width: 1582px;
+    height: 664px;
+    left: -150px;
+    top: 188px;
+    background: #C4C4C4;
+}
