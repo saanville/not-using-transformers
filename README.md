@@ -1,1 +1,1 @@
-#Synthesis of Novel Poetry using Generative Pretrained Transformers
+# Synthesis of Novel Poetry using Generative Pretrained Transformers
